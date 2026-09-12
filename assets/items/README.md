@@ -1,6 +1,6 @@
 # Item art
 
-35 original SVG illustrations authored for 유하의 후쿠오카 여행. No third-party game art,
+35 original SVG illustrations authored for 우리의 후쿠오카 여행. No third-party game art,
 emoji images, brand logos, or reference photographs are embedded. 128 × 128 viewBox,
 transparent background, muted palette, outlined silhouettes, soft contact shadows.
 
